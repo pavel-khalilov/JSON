@@ -1,12 +1,23 @@
 {
   "bugs":
-  {
+    {
     "id":1,
     "title":"System navigation 'Back' button doesn't returns to the 'SHOW PALM' screen",
     "steps to reproduce":
-    {
-      "id":1,
-      "description":"Tap system navigation 'Back' button on the 'REGISTRATION' screen"
+                         {
+                          "id":1,
+                          "description":"Tap system navigation 'Back' button on the 'REGISTRATION' screen"
+                         },
+    "expected result":
+                         {
+                          "id":1,
+                          "description":"'SHOW PALM' screen is shown"
+                         },
+    "actual result":
+                         {
+                         "id":1,
+                         "description":"'SHOW PALM' screen doesn’t shown, nothing happened"
+                         },
     }
-  }
+                         
 }
