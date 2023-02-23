@@ -1,0 +1,12 @@
+Дисклеймер: пункты меню соответствуют пунктам в домашнем задании
+
+1. touch HW_history.txt	Создал файл логов в который пишу логи выполненых действий
+2.3. vim HW_history.txt	Добавляю комментарии по выполненным действиям в файл HW_history.txt
+5. git clone https://github.com/tatarin555/JSON.git	Клонировал созданный репозиторий JSON на локальную iмашину
+mv HW_history.txt JSON/	Переместил файл HW_history.txt в папку с репозиторием JSON
+cd JSON/	Перешел в папку с репозиторием JSON
+6. touch new.json	Создал новый файл new.json
+7. git add new.json	Добавил файл new.json под гит
+8. git commit -m "1"	Закоммитил файл new.json
+9. git push	Отправил файл new.json на внешний гитхаб репозиторий JSON
+
